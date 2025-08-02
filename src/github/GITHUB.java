@@ -24,7 +24,7 @@ public class GITHUB {
         System.out.println("Ingrese sus edades");
         edad=lector.next();
         System.out.println("Ingrese su teléfono");
-         telefono = lector.next();
+         telefono=lector.next();
         
     }
     
